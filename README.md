@@ -31,7 +31,6 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 ```
 
-
 2. Install dependencies:
 
    ```shell
@@ -43,13 +42,16 @@ venv\Scripts\activate     # Windows
    python app.py
    ```
 
+
 ## File Structure
 
+```text
 ling_perfect_pitch_guide/
-├── app.py              # Main application file
-├── audio_processor.py  # Audio processing functions
-├── db.py              # Database operations
-├── static/            # Static files
-├── templates/         # HTML templates
-├── uploads/          # Uploaded files directory
-└── processed/        # Processed files directory
+├── app.py               # Main application file
+├── audio_processor.py   # Audio processing functions
+├── db.py                # Database operations
+├── static/              # Static files
+├── templates/           # HTML templates
+├── uploads/             # Uploaded files directory
+└── processed/           # Processed files directory
+```
