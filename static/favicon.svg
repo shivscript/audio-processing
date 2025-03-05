@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="32" fill="#1E88E5"/>
+  <!-- Musical Note Head -->
+  <ellipse cx="26" cy="40" rx="6" ry="8" fill="#ffffff"/>
+  <!-- Stem -->
+  <rect x="30" y="20" width="3" height="20" fill="#ffffff"/>
+  <!-- Flag -->
+  <path d="M33 20c4 0 4 4 0 4" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
